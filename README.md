@@ -2,7 +2,7 @@
 
 ![Desktop design](https://user-images.githubusercontent.com/18488402/233878949-8bf50bfa-212b-4686-bd28-b16bf79e8f57.png)
 
-This is a [solution](https://Nevin06.github.io/tribute-page/) to the [tribute page challenge on freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page). freeCodeCamp is a community of millions of people around the world who are learning to code together.
+This is a [solution](https://nevin06.github.io/tribute-page.freecodecamp.rocks/) to the [tribute page challenge on freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page). freeCodeCamp is a community of millions of people around the world who are learning to code together.
 
 ## Table of contents
 
